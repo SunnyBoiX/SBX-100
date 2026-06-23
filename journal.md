@@ -1,4 +1,4 @@
-# SCHEMATIC
+# JOURNAL - PROGRESS OF SBX-100 KEYBOARD
 ## SCHEMATIC ALMOST COMPLETE
 <img width="1920" height="986" alt="{4D84491C-F9D6-48BA-B200-8252EAB64016}" src="https://github.com/user-attachments/assets/0524c1ef-fa9a-49c0-b99a-b2bb927ec5f3" />
 <img width="1919" height="965" alt="{AA4969AA-1894-44A1-ABC2-2E1BE9B552C2}" src="https://github.com/user-attachments/assets/3905b71a-8a34-4c84-afde-2be7f1a87301" />
