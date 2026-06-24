@@ -24,3 +24,6 @@ I had finally completed assigning the footprints, which I thankfully remembered 
 Now I have completed my schematic and can move on to adjusting the PCB layout and routing!
 
 ## PCB
+### Placing Components
+<img width="1920" height="995" alt="{391C597E-78B3-4806-B1D8-9F4039D24093}" src="https://github.com/user-attachments/assets/cbc289f7-6ff8-46e6-80bc-17358e24f0e8" />
+I decided to go to the keyboard layout editor site and make my keyboard there the way I wanted it to be, and downloaded it as a DXF file and imported it as a graphic on the User.comments layer in order to place the switches in the accurate spot. The grid was a problem I kept encountering because it didn't snap in place like I wanted it to. I was originally using 4.7625 mm (19.05/4), which is the standard for MX 0.25u row staggering and modifier key spacing. It had failed me because the DXF file, which I placed randomly, didn't align with the workspace grid. I decided to go with 0.7937 mm, which kept it consistent. I placed down all the keys, and for some of the keys being too big, I placed down the stabilizers first and then placed my switches on top, which snapped perfectly in the stabilizer. Some of the stabilizers are not perfectly aligned, which I hope is not too big a problem. I still have two major components to place down, which are the diodes and the SK6812MINI-Es, which I will do. 
