@@ -15,11 +15,12 @@ I made a separate sheet to work on for the LEDS, and I finally completed the LED
 <img width="1920" height="920" alt="{7B05AC75-E501-43FC-8765-99F182B327B2}" src="https://github.com/user-attachments/assets/01d5a6cc-ae95-44df-84fe-51d6881113c3" />
 <img width="1919" height="923" alt="{2A39B1DB-C078-4DB0-9210-829FF05B60E9}" src="https://github.com/user-attachments/assets/0abfc4a6-b195-4a9c-8c4b-aa2c5df44fb9" />
 <img width="1920" height="922" alt="{7409A7AD-4199-4560-8EF1-C0E76509542A}" src="https://github.com/user-attachments/assets/6fc11443-c1b6-4d59-adfa-d5d8726b0bce" />
-I had finally completed assigning the footprints, which I thankfully remembered to do. It was not hard to do because much of it was just MASS assigning the same footprint to the same types of symbols. The only struggle was the mounting holes' footprint. I decided to delete my mounting hole symbols and go with a sandwich mount case style. Now I have successfully completed my schematic and can move on to adjusting the PCB layout and routing!
+I had finally completed assigning the footprints, which I thankfully remembered to do. It was not hard to do because much of it was just MASS assigning the same footprint to the same types of symbols. The only struggle was the mounting holes' footprint. I decided to delete my mounting hole symbols and go with a sandwich mount case style. 
 
 ### COMPLETED SCHEMATIC
 <img width="1920" height="991" alt="{E79D0E5F-BF2D-4101-81F3-8AAC820AA03E}" src="https://github.com/user-attachments/assets/e4db5a70-1e2d-4b8b-8faf-26b4de604d38" />
 <img width="1920" height="972" alt="{D5856CE4-27C6-405B-9CAA-D73A9B12FC1B}" src="https://github.com/user-attachments/assets/d8ba1482-d2a9-421b-bc7c-3edf613f47c0" />
 <img width="1920" height="962" alt="{ECC945BD-C583-4D87-BEB8-AF930303564C}" src="https://github.com/user-attachments/assets/a39aa344-9b76-40a4-80bf-d808a189585f" />
+Now I have completed my schematic and can move on to adjusting the PCB layout and routing!
 
 ## PCB
